@@ -30,7 +30,7 @@ Steps to Run Code
 
 Deliverables
 -------------------------
-* The final output generated consists of 600 rows of data.
+* The final output generated consists of 640 rows of data.
 * All the points from the Points to be achieved have been taken care of.
 * If given more days, I shall improve on mainly two things - First is that I would think of some way to optimize the code since it takes 45 mins to get the output file. Secondly, I would be looking forward to its deployment to provide a tool to any user to enter any SQL query and provide the user with relevant data in any required form.
 
