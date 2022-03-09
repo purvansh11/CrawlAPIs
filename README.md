@@ -37,4 +37,4 @@ Deliverables
 Feedback
 --------
 
-I would like to thank the team at Postman who gave this opportunity to me. I would be looking forward to working on similar projects at Postman since I am passionate about problem-solving and Python programming. 
+Feel free to reach out to me at purvansh11@gmail.com for any feedbacks :)
